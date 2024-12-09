@@ -6,7 +6,10 @@
   <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavocoimbradev&layout=compact&langs_count=6&theme=dark"/>
 </p>
 
-<p>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavocoimbradev&show_icons=true&count_private=true&hide_title=true&hide=prs)
+
+
   <p> <img src="https://komarev.com/ghpvc/?username=gustavocoimbradev&color=red" alt="Profile views" /> </p>
 </p>
 
