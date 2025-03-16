@@ -1,23 +1,39 @@
+### Olá, meu nome é Gustavo Coimbra, mas você pode me chamar de Gus! 👋  
 
-<h1 align="left">Hi 👋, I'm Gustavo Coimbra</h1>
-<h3 align="left">A fullstack developer</h3>
+<br/>
 
-<p align="left">
-  <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavocoimbradev&layout=compact&langs_count=6&theme=dark"/>
-</p>
+<<< Estou cursando Bacharelado em Engenharia de Software, mas já atuo na área há mais de 4 anos. >>>  
+
+<br/>
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=gustavocoimbradev&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br)
+
+[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavocoimbradev&layout=compact&theme=radical&langs_count=6&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavocoimbradev&show_icons=true&count_private=true&hide_title=true&hide=prs)
+---
 
+### 🚀 Tecnologias que mais uso:
+<div style="display: inline_block">    
+    <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+    <img align="center" alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />    
+    <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    <img align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+    <img align="center" alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" /><br/><br/>
+    <img align="center" alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+    <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    <img align="center" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+    <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /><br/><br/>
+    <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+    <img align="center" alt="Azure" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+    <img align="center" alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+    <img align="center" alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img align="center" alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" /><br/><br/>
+</div>
 
-  <p> <img src="https://komarev.com/ghpvc/?username=gustavocoimbradev&color=red" alt="Profile views" /> </p>
-</p>
+---
 
-<p style="display: flex">
-  <a href="https://gustavocoimbra.vercel.app/">
-    <img height="30" src="https://img.shields.io/badge/portfolio-black.svg?logo=data:image/png;base64,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"/></a>
-      <a href="https://www.linkedin.com/in/gustavocoimbradev/">
-    <img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?logo=data:image/png;base64,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"/></a>
-
-</p>
-
+### 📞 Contato:
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](<mailto:contato@gustavocoimbra.com>)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavocoimbradev/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5535984365367)
