@@ -2,7 +2,7 @@
 
 <br/>
 
-<<< Estou cursando Bacharelado em Engenharia de Software, mas já atuo na área há mais de 4 anos. >>>  
+<<< Estou cursando Análise e Desenvolvimento de Sistemas, mas já atuo na área há mais de 4 anos. >>>  
 
 <br/>
 
