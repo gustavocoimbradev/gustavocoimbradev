@@ -8,7 +8,7 @@
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=gustavocoimbradev&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br)
 
-[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavocoimbradev&layout=compact&theme=radical&langs_count=6&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
+[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavocoimbradev&layout=compact&theme=radical&langs_count=20&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
