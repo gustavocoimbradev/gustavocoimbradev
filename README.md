@@ -1,8 +1,8 @@
-### Olá, meu nome é Gustavo Coimbra, mas você pode me chamar de Gus! 👋  
+### PHP / Laravel Specialist 👋  
 
 <br/>
 
-<<< Estou cursando Análise e Desenvolvimento de Sistemas, mas já atuo na área há mais de 4 anos. >>>  
+<<< 5 years of professional experience as a full-stack developer. >>>  
 
 <br/>
 
