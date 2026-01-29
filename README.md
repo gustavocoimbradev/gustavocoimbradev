@@ -1,10 +1,8 @@
-### PHP / Laravel Specialist 👋  
+### PHP / Laravel Specialist 
 
 <br/>
 
 <<< 5 years of professional experience as a full-stack developer. >>>  
-
-<br/>
 
 ![](https://github-readme-stats.vercel.app/api?username=gustavocoimbradev&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br)
 
