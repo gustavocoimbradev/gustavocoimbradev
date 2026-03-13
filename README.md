@@ -1,4 +1,4 @@
-## 👨🏻‍💻 Gustavo Coimbra
+## <img src="https://cdn-icons-png.flaticon.com/512/5024/5024509.png" width="30"> Gustavo Coimbra
 
 Desenvolvedor Fullstack | PHP, Laravel, Vue.js, Inertia, Tailwind CSS, TDD, SQL, Docker
 
