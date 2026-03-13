@@ -9,8 +9,8 @@ Desenvolvedor Fullstack | PHP, Laravel, Vue.js, Inertia, Tailwind CSS, TDD, SQL,
 ## 🚀 Últimos projetos em Laravel
 
 | Projeto | Stack | Link |
-| :--- | :---: | :--- |
-| **Your Money** | ![Laravel](https://img.shields.io/badge/-FF2D20?style=flat&logo=laravel&logoColor=white) | [Repositório](https://github.com/gustavocoimbradev/your-money) |
-| **Lua/desk** | ![Laravel](https://img.shields.io/badge/-FF2D20?style=flat&logo=laravel&logoColor=white) | [Repositório](https://github.com/gustavocoimbradev/luadesk) |
-| **Chatty** | ![Laravel](https://img.shields.io/badge/-FF2D20?style=flat&logo=laravel&logoColor=white) | [Repositório](https://github.com/gustavocoimbradev/chatty) |
-| **Amora** | ![Laravel](https://img.shields.io/badge/-FF2D20?style=flat&logo=laravel&logoColor=white) | [Repositório](https://github.com/gustavocoimbradev/amora) |
+| :--- | :--- | :--- |
+| **Your Money** | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) | [![Ver projeto](https://img.shields.io/badge/Ver_projeto-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/gustavocoimbradev/your-money) |
+| **Lua/desk** | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) | [![Ver projeto](https://img.shields.io/badge/Ver_projeto-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/gustavocoimbradev/luadesk) |
+| **Chatty** | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) | [![Ver projeto](https://img.shields.io/badge/Ver_projeto-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/gustavocoimbradev/chatty) |
+| **Amora** | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) | [![Ver projeto](https://img.shields.io/badge/Ver_projeto-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/gustavocoimbradev/amora) |
