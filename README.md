@@ -6,7 +6,7 @@ Sites e landing pages desenvolvidos para empresas, escritórios e profissionais,
   <tr>
     <td width="33%" valign="top">
       <a href="https://github.com/gustavocoimbradev/dra-evelyne-borges-de-mattos">
-        <img src="./assets/portfolio-dra-evelyne.avif" width="100%" alt="Dra. Evelyne Borges de Mattos">
+        <img src="https://gustavocoimbra.com/portfolio-dra-evelyne.avif" width="100%">
       </a>
       <br>
       <strong>Dra. Evelyne Borges</strong>
@@ -15,7 +15,7 @@ Sites e landing pages desenvolvidos para empresas, escritórios e profissionais,
     </td>
     <td width="33%" valign="top">
       <a href="https://github.com/gustavocoimbradev/mr-blanks">
-        <img src="./assets/cliente-mr-blanks.avif" width="100%" alt="MR Blanks">
+        <img src="https://gustavocoimbra.com/cliente-mr-blanks.avif" width="100%">
       </a>
       <br>
       <strong>MR Blanks</strong>
@@ -24,7 +24,7 @@ Sites e landing pages desenvolvidos para empresas, escritórios e profissionais,
     </td>
     <td width="33%" valign="top">
       <a href="https://github.com/gustavocoimbradev/gv-advogados">
-        <img src="./assets/cliente-gv-advogados.avif" width="100%" alt="GV Advogados">
+        <img src="https://gustavocoimbra.com/cliente-gv-advogados.avif" width="100%">
       </a>
       <br>
       <strong>GV Advogados</strong>
@@ -36,16 +36,16 @@ Sites e landing pages desenvolvidos para empresas, escritórios e profissionais,
   <tr>
     <td width="33%" valign="top">
       <a href="https://github.com/gustavocoimbradev/metodo-viana-e-arantes">
-        <img src="./assets/cliente-metodo-viana-e-arantes.avif" width="100%" alt="Método Viana e Arantes">
+        <img src="https://gustavocoimbra.com/cliente-metodo-viana-e-arantes.avif" width="100%">
       </a>
       <br>
       <strong>Método Viana e Arantes</strong>
       <br>
-      <sub>React · Tailwind · AWS · CloudFront</sub>
+      <sub>React · Tailwind · AWS · S3 · CloudFront</sub>
     </td>
     <td width="33%" valign="top">
       <a href="https://github.com/gustavocoimbradev/pablo-gomes">
-        <img src="./assets/cliente-pablo-gomes.avif" width="100%" alt="Pablo Gomes">
+        <img src="https://gustavocoimbra.com/cliente-pablo-gomes.avif" width="100%">
       </a>
       <br>
       <strong>Pablo Gomes</strong>
@@ -54,7 +54,7 @@ Sites e landing pages desenvolvidos para empresas, escritórios e profissionais,
     </td>
     <td width="33%" valign="top">
       <a href="https://github.com/gustavocoimbradev/gsl-advogados">
-        <img src="./assets/cliente-gsl-advogados.avif" width="100%" alt="GSL Advogados">
+        <img src="https://gustavocoimbra.com/cliente-gsl-advogados.avif" width="100%">
       </a>
       <br>
       <strong>GSL Advogados</strong>
@@ -66,30 +66,30 @@ Sites e landing pages desenvolvidos para empresas, escritórios e profissionais,
   <tr>
     <td width="33%" valign="top">
       <a href="https://github.com/gustavocoimbradev/viana-e-arantes">
-        <img src="./assets/portfolio-viana-e-arantes.avif" width="100%" alt="Viana e Arantes">
+        <img src="https://gustavocoimbra.com/portfolio-viana-e-arantes.avif" width="100%">
       </a>
       <br>
       <strong>Viana & Arantes</strong>
       <br>
-      <sub>React · Tailwind · AWS · CloudFront</sub>
+      <sub>React · Tailwind · AWS · S3 · CloudFront</sub>
     </td>
     <td width="33%" valign="top">
       <a href="https://github.com/gustavocoimbradev/rad-advogados">
-        <img src="./assets/portfolio-rad-advogados.avif" width="100%" alt="RAD Advogados">
+        <img src="https://gustavocoimbra.com/portfolio-rad-advogados.avif" width="100%">
       </a>
       <br>
       <strong>RAD Advogados</strong>
       <br>
-      <sub>React · Tailwind · AWS · CloudFront</sub>
+      <sub>React · Tailwind · AWS · S3 · CloudFront</sub>
     </td>
     <td width="33%" valign="top">
       <a href="https://github.com/gustavocoimbradev/sagrado-design">
-        <img src="./assets/portfolio-sagrado-design.avif" width="100%" alt="Sagrado Design">
+        <img src="https://gustavocoimbra.com/portfolio-sagrado-design.avif" width="100%">
       </a>
       <br>
       <strong>Sagrado Design</strong>
       <br>
-      <sub>React · Firebase · AWS · CloudFront</sub>
+      <sub>React · Firebase · AWS · S3 · CloudFront</sub>
     </td>
   </tr>
 </table>
