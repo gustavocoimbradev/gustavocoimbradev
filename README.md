@@ -1,5 +1,3 @@
-## Projetos recentes
-
 Sites e landing pages desenvolvidos para empresas, escritórios e profissionais, com foco em identidade visual, desempenho e presença digital.
 
 <table>
