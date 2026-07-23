@@ -1,5 +1,3 @@
-Sites e landing pages desenvolvidos para empresas, escritórios e profissionais, com foco em identidade visual, desempenho e presença digital.
-
 <table>
   <tr>
     <td width="33%" valign="top">
