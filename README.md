@@ -1,9 +1,8 @@
-
 # Olá, eu sou o Gustavo Coimbra 👋
 
 **Full Stack Software Engineer | Web Architecture, PHP & High-Performance Systems**
 
-Engenheiro de software com mais de 5 anos de experiência construindo sistemas sólidos e de alto tráfego, do mercado financeiro à educação. Moro em Varginha, MG, e estou aberto a oportunidades no Brasil, Portugal e Espanha.
+Engenheiro de software com mais de 5 anos de experiência construindo sistemas sólidos e de alto tráfego, do mercado financeiro à educação. Moro em Varginha, MG, e estou aberto a oportunidades no Brasil e no exterior, com foco em Portugal e Espanha.
 
 ## 💼 O que eu faço
 
