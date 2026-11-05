@@ -24,25 +24,20 @@
     <td align="center"><b>5+ years</b><br><sub>shipping PHP in production</sub></td>
     <td align="center"><b>9-12 s → ~1 s</b><br><sub>load time, Multisite with thousands of sites</sub></td>
     <td align="center"><b>40+</b><br><sub>corporate websites delivered</sub></td>
-    <td align="center"><b>311</b><br><sub>tests written first in Form Sender</sub></td>
   </tr>
 </table>
 
 ---
 
-## ⭐ Featured project
-
-### [➤ Form Sender](https://github.com/gustavocoimbradev/form-sender)
-
-**Forms without a backend.** Create a form, paste one snippet into any website, and every message is saved and delivered by email through a template you design.
+## 🧱 How I build
 
 | | |
 |---|---|
-| **Back-end** | Laravel 13, PHP 8.4 (strict types everywhere), PostgreSQL 16, Redis queue with retries and per-destination delivery status, Sanctum, Policies, Form Requests, API Resources |
-| **Front-end** | Next.js 14 (App Router), TypeScript, Tailwind, CodeMirror 6: a dashboard with an email-template editor and live preview |
-| **Quality** | **311 Pest tests written test-first**, CI on SQLite and real PostgreSQL, OpenAPI docs generated from code and enforced by tests |
-| **Security** | No tokens exposed to visitors, per-form allowed sites and CORS, rate limiting, encrypted secrets, hardened headers |
-| **DX** | `make up` starts everything with free ports picked automatically; Mailpit catches every email locally |
+| **Back-end** | Laravel and PHP 8.4 with strict types, PostgreSQL, Redis queues with retries and delivery tracking, Sanctum, Policies, Form Requests, API Resources |
+| **Front-end** | Next.js (App Router), TypeScript, Tailwind: dashboards that are fast, responsive and accessible |
+| **Quality** | Test-first with Pest, CI on SQLite and real PostgreSQL, OpenAPI docs generated from code and enforced by tests |
+| **Security** | Policies and roles, rate limiting, per-resource CORS, encrypted secrets, hardened headers |
+| **DX** | One-command local setup with Docker, so anyone can run the project in minutes |
 
 ## 💼 Experience that shows in how I code
 
