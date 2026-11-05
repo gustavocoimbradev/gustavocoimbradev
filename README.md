@@ -16,8 +16,17 @@
 </p>
 
 <p align="center">
-  📍 Brazil &nbsp;·&nbsp; 🌍 <b>Open to relocate to Portugal and Spain</b> &nbsp;·&nbsp; 🇧🇷 🇬🇧 Portuguese (native), English
+  📍 Brazil &nbsp;·&nbsp; 🌍 <b>Relocating to Portugal</b> (work visa sponsorship needed, happy to start remotely) &nbsp;·&nbsp; 🇧🇷 🇬🇧 Portuguese (native), English B2
 </p>
+
+<table align="center">
+  <tr>
+    <td align="center"><b>5+ years</b><br><sub>shipping PHP in production</sub></td>
+    <td align="center"><b>9-12 s → ~1 s</b><br><sub>load time, Multisite with thousands of sites</sub></td>
+    <td align="center"><b>40+</b><br><sub>corporate websites delivered</sub></td>
+    <td align="center"><b>311</b><br><sub>tests written first in Form Sender</sub></td>
+  </tr>
+</table>
 
 ---
 
@@ -60,7 +69,7 @@
 
 ## 📫 Let's talk
 
-I'm looking for a **Laravel / full-stack role in Portugal or Spain** (relocation-ready).
+I'm looking for a **Laravel / full-stack role in Portugal**. I need work visa sponsorship, and I'm happy to start remotely while the move happens.
 
 [![Website](https://img.shields.io/badge/gustavocoimbra.com-8b6bff?logo=googlechrome&logoColor=white)](https://gustavocoimbra.com)
 [![Email](https://img.shields.io/badge/contato@gustavocoimbra.com-3dd6f5?logo=gmail&logoColor=black)](mailto:contato@gustavocoimbra.com)
