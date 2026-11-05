@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Full-stack engineer, Laravel first.</b><br>
-  I build fast, tested, production-ready web products, from the database to the pixel.
+  5+ years building fast, tested, production-ready web products, from the database to the pixel.
 </p>
 
 <p align="center">
@@ -19,31 +19,24 @@
   📍 Brazil &nbsp;·&nbsp; 🌍 <b>Relocating to Portugal</b> (work visa sponsorship needed, happy to start remotely) &nbsp;·&nbsp; 🇧🇷 🇬🇧 Portuguese (native), English B2
 </p>
 
-<table align="center">
-  <tr>
-    <td align="center"><b>5+ years</b><br><sub>shipping PHP in production</sub></td>
-    <td align="center"><b>9-12 s → ~1 s</b><br><sub>load time, Multisite with thousands of sites</sub></td>
-    <td align="center"><b>40+</b><br><sub>corporate websites delivered</sub></td>
-  </tr>
-</table>
-
 ---
 
-## 🧱 How I build
+## 🎯 What I'm good at
 
 | | |
 |---|---|
-| **Back-end** | Laravel and PHP 8.4 with strict types, PostgreSQL, Redis queues with retries and delivery tracking, Sanctum, Policies, Form Requests, API Resources |
-| **Front-end** | Next.js (App Router), TypeScript, Tailwind: dashboards that are fast, responsive and accessible |
-| **Quality** | Test-first with Pest, CI on SQLite and real PostgreSQL, OpenAPI docs generated from code and enforced by tests |
-| **Security** | Policies and roles, rate limiting, per-resource CORS, encrypted secrets, hardened headers |
-| **DX** | One-command local setup with Docker, so anyone can run the project in minutes |
+| **Back-end engineering** | Laravel and PHP 8 with strict types: Eloquent, queues and jobs with retries, Sanctum, Policies, Form Requests, API Resources, events and notifications |
+| **APIs and integrations** | REST APIs designed for clarity, OpenAPI documentation generated from code, third-party and real-time data integrations, OAuth and token authentication |
+| **Performance** | Profiling, query and index optimization, caching, queue offloading, Core Web Vitals, WordPress and Multisite at scale |
+| **Data** | Relational modeling and migrations on PostgreSQL and MySQL, Redis for queues and cache, SQL Server and Oracle for legacy systems |
+| **Quality** | Test-first development with Pest, CI on every push, static typing, small and readable commits |
+| **Security** | Authorization with Policies and roles, rate limiting, CORS, encrypted secrets, hardened headers, safe handling of user input |
+| **Front-end** | Next.js (App Router), React, TypeScript and Tailwind: responsive, accessible dashboards and interfaces |
+| **DevOps** | Docker and Docker Compose, GitHub Actions CI/CD, Nginx, Linux, AWS (S3, CloudFront), Cloudflare |
 
-## 💼 Experience that shows in how I code
+## 🚀 Products I've built
 
-- **MZ Group:** optimized the WordPress core of a Multisite network with thousands of sites, cutting load time from **9-12 s to about 1 s**, and delivered **40+ Investor Relations websites** for large companies.
-- **FADIVA:** built the Fadiva Digital academic portal and the Digital Student ID (Laravel + React), and set up **CI/CD with GitHub Actions**.
-- **Own products:** end to end, from idea to store. [Sweesh.me](https://sweesh.me) (social network, web and Android on Google Play) and [Argumen.to](https://argumen.to) (online debate game).
+[Sweesh.me](https://sweesh.me), a social network for web and Android (Google Play), and [Argumen.to](https://argumen.to), an online debate game. Both end to end, from idea to launch.
 
 ## 🛠️ Stack
 
