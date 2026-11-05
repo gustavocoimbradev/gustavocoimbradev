@@ -21,23 +21,6 @@
 
 ---
 
-## 🎯 What I'm good at
-
-| | |
-|---|---|
-| **Back-end engineering** | Laravel and PHP 8 with strict types: Eloquent, queues and jobs with retries, Sanctum, Policies, Form Requests, API Resources, events and notifications |
-| **APIs and integrations** | REST APIs designed for clarity, OpenAPI documentation generated from code, third-party and real-time data integrations, OAuth and token authentication |
-| **Performance** | Profiling, query and index optimization, caching, queue offloading, Core Web Vitals, WordPress and Multisite at scale |
-| **Data** | Relational modeling and migrations on PostgreSQL and MySQL, Redis for queues and cache, SQL Server and Oracle for legacy systems |
-| **Quality** | Test-first development with Pest, CI on every push, static typing, small and readable commits |
-| **Security** | Authorization with Policies and roles, rate limiting, CORS, encrypted secrets, hardened headers, safe handling of user input |
-| **Front-end** | Next.js (App Router), React, TypeScript and Tailwind: responsive, accessible dashboards and interfaces |
-| **DevOps** | Docker and Docker Compose, GitHub Actions CI/CD, Nginx, Linux, AWS (S3, CloudFront), Cloudflare |
-
-## 🚀 Products I've built
-
-[Sweesh.me](https://sweesh.me), a social network for web and Android (Google Play), and [Argumen.to](https://argumen.to), an online debate game. Both end to end, from idea to launch.
-
 ## 🛠️ Stack
 
 | | |
@@ -47,13 +30,6 @@
 | **Data** | PostgreSQL, MySQL, SQL Server, Oracle, Redis, Firebase |
 | **DevOps** | Docker, GitHub Actions, AWS (S3, CloudFront), Nginx, Linux, Cloudflare |
 | **AI-assisted development** | Claude Code, Cursor, Codex, used with tests and review, never in place of them |
-
-## 🧭 How I work
-
-- **The framework's way first.** Laravel already solves most things. I add a layer only when a real need shows up.
-- **Test-driven.** A failing test first, then the code. CI blocks anything red.
-- **Small, readable commits** (Conventional Commits) and READMEs that explain *why*.
-- **Products, not demos.** UX, accessibility and performance are part of "done".
 
 ## 📫 Let's talk
 
